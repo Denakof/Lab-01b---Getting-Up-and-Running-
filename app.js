@@ -1,3 +1,10 @@
+
+
+
+
+
+
+
 let userName = prompt("please enter your name?");
  alert("welcome " + userName);
 document.write(`<span id="userName">welcome ${userName}</span>`);
